@@ -1,0 +1,13 @@
+.header__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .MuiBox-root header {
+    background: transparent;
+  }
+  
+  .MuiBox-root svg {
+    color:#183181;
+  }
